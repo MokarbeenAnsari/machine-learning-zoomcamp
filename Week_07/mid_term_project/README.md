@@ -20,6 +20,14 @@ Start by cloning the repository to your local machine:
 git clone https://github.com/MokarbeenAnsari/machine-learning-zoomcamp.git
 ```
 
+### Go to the required folder
+
+Start by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/MokarbeenAnsari/machine-learning-zoomcamp.git
+```
+
 ### Install dependencies using Pipfile
 
 Ensure you have `pipenv` installed on your system to handle the dependencies:
