@@ -17,7 +17,7 @@ Follow these steps to set up and run the project locally:
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/bengaluru-house-price-prediction.git
+git clone https://github.com/MokarbeenAnsari/machine-learning-zoomcamp.git
 ```
 
 ### Install dependencies using Pipfile
